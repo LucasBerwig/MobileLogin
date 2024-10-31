@@ -17,7 +17,7 @@ campos como o de "Login" e "Senha" e apertar o botão
 "Entrar" para realizar seu login.
 
 
-## 🔧 Funcionalidades do App Hamburgueria
+## 🔧 Funcionalidades do App Login
 
 - [x] Tela principal (Tela pra acessar as tela e login e cadastro);
 - [x] Tela de login. 
